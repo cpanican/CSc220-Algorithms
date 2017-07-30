@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/CSc_220___Homework_2.dir/main.cpp.o  -o CSc_220___Homework_2.exe -Wl,--out-implib,libCSc_220___Homework_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
